@@ -1,4 +1,4 @@
-# [自動植林]AutoPlantSaplings
+# [自動根付き]AutoPlantSaplings
 
 [**ダウンロード**](https://github.com/eyeq/mod-1.11.2-AutoPlantSaplings/releases/download/1.0/1.11.2-AutoPlantSaplings-1.0.jar)
 
